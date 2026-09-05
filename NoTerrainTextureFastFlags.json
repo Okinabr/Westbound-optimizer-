@@ -1,0 +1,2639 @@
+[
+    {
+        "name": "FLogNetwork",
+        "value": "7",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagHandleAltEnterFullscreenManually",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderShadowIntensity",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDisablePostFx",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntTerrainArraySliceSize",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntTaskSchedulerTargetFps",
+        "value": "9999",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDebugRenderForceTechnologyVoxel",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagCSGDecalOptimizeVB",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVRLaserPointerOptimization",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntMicroProfilerDpiScaleOverride",
+        "value": "100",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntDebugFRMQualityLevelOverride",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAssetPreloadingUrlVersionEnabled2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagSimOptimizeSetSize",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugSelfViewPerfBenchmark",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAudioEnableVolumetricPanningForPolys",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEngineAPICloudProcessingUseNotificationClient",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRomarkStartWithGraphicQualityLevel",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagMigrateTextureManagerIsLocalAsset",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagControlBetaBadgeWithGuac",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableExperienceNotificationPrompts2",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderLightGridEfficientTextureAtlasUpdate",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugGraphicsPreferD3D11",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableBubbleChatFromChatService",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagBetaBadgeLearnMoreLinkFormview",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL23",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuauCodegen",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTextureQualityOverrideEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagTopBarUseNewBadge",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugCodegenOptSize",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntUITextureMaxUpdateDepth",
+        "value": "-1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewUpdatedCamFraming",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInExperienceMenu",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDisableFeedbackSoothsayerCheck",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagEnableMeshPreloading2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagUseVisBugChecks",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistance",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRuntimeMaxNumOfThreads",
+        "value": "2400",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeSettingInMenus2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaAppsEnableParentalControlsTab",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagToastNotificationsResendDisplayOnInit",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntCameraMaxZoomDistance",
+        "value": "999999",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntTeleportClientAssetPreloadingHundredthsPercentage",
+        "value": "100000",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRemovedRbxRenderingPreProcessor",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeGuiService",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFRMRefactor",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntVertexSmoothingGroupTolerance",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntDebugAdditionalNumberOfMipsToSkipForNonAlbedoTextures",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewAvoidErrorOnWrongFaceControlsParenting",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaAppGamesPagePreloadingDisabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRemoveRedundantFontPreloading",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL12",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInPurchasePrompt",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntDebugFRMOptionalMSAALevelOverride",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableCommandAutocomplete",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDisableDPIScale",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagGraphicsOptimizationModeMVPExposureEnrollment3",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntAXAdaptiveScrollingJustSelectedMillis",
+        "value": "2000",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUserShowGuiHideToggles",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewTweaksPass",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL34",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXAdaptiveScrollingItemResetFix2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderNoLowFrmBloom",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFastGPULightCulling3",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntTimestepArbiterThresholdCFLThou",
+        "value": "300",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUserHideCharacterParticlesInFirstPerson",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntWindowsWebViewTelemetryThrottleHundredthsPercent",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderFixFog",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderDebugCheckThreading2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringVoiceBetaBadgeLearnMoreLink",
+        "value": "null",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableBetterHapticsResultHandling",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntTerrainOTAMaxTextureSize",
+        "value": "4",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagStudioDataCollectionAddBasicNotification",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntGrassMovementReducedMotionFactor",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportClientAssetPreloadingEnabledIXP2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderMaxShadowAtlasUsageBeforeDownscale",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntDebugForceMSAASamples",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixReducedMotionStuckIGM2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntEnableVisBugChecksHundredthPercent27",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntNumAssetsMaxToPreload",
+        "value": "2147483647",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDeterministicParticles",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixSensitivityTextPrecision",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugSSAOForce",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagShaderLightingRefactor",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRefreshRateLowerBound",
+        "value": "120",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagQuaternionPoseCorrection",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntFRMMinGrassDistance",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryV2Stat",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixCountOfUnreadNotificationError",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagPreloadAllFonts",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInReportMenu",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSyncWebViewCookieToEngine2",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagEnableTexturePreloading",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntAnimationLodFacsDistanceMax",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableAudioPannerFiltering",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUseNotificationsLocalization",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntPerformanceControlTextureQualityBestUtility",
+        "value": "-1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagNotificationButtonTypeVariantMappingEmphasis",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntVRTouchControllerTransparency",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixParticleEmissionBias2",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntVoiceChatMaxRecordedDataDeliveryIntervalMs",
+        "value": "2147483647",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableAudioEmitterDistanceAttenuation",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryEventIngest",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDisableChromeV3StaticSelfView",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagNewOptimizeNoCollisionPrimitiveInMidphase637",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderLegacyShadowsQualityRefactor",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeScalePerLayerCollector",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntUnifiedLightingBlendZone",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaAppEnableToastNotificationsCoreScripts4",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntVideoMaxNumberOfVideosPlaying",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntSSAOMipLevels",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableVRFTUXExperienceV2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntContentProviderPreloadHangTelemetryHundredthsPercentage",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLoginPageOptimizedPngs",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUpdateHTTPCookieStorageFromWKWebView",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewRemoveVPFWhenClosed",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderGrassDetailStrands",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugEnableDirectAudioOcclusion2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixSelfViewPopin",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagPreOptimizeNoCollisionPrimitive",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDeveloperToastNotificationsEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntSelfViewTooltipLifetime",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagNotificationsNoLongerRequireControllerState",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntMacWebViewTelemetryThrottleHundredthsPercent",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVRMouseMoveOptimization",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagContentProviderPreloadHangTelemetry",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagSimSolverOptimizeGeometricStiffness4",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringTerrainMaterialTable2022",
+        "value": "",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagNotificationPluginSignalRReadEvents",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagClientToastNotificationsEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXPortraitSplitAdaptiveScrollingFix2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSimEnableDCD16",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderLocalLightUpdatesMin",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagOpenCloudV1CreateUserNotificationAsync",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXSearchLandingPageIXPEnabled4",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryEphemeralStat",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntTextureCompositorLowResFactor",
+        "value": "4",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagPhysicsMechanismCacheOptimizeAlloc",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixParticleAttachmentCulling",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAudioEnableVolumetricPanningForMeshes",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntStudioWebView2TelemetryHundredthsPercent",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntTextureQualityOverride",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntFullscreenTitleBarTriggerDelayMillis",
+        "value": "3600000",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRobloxGuiBlurIntensity",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGuiHidingApiSupport2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagOptimizeIsA",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableChromeFTUX",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAdsPreloadInteractivityAssets",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagSimRefactorCollisionGeometry2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntTeleportClientAssetPreloadingHundredthsPercentage2",
+        "value": "100000",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGraphicsGLEnableSuperHQShadersExclusion",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesAddFriends",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntFriendRequestNotificationThrottle",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugSkyGray",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUseNotificationServiceIsConnected",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntTargetRefreshRate",
+        "value": "144",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDebugSkipMeshVoxelizer",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntFixForBulkPresenceNotifications",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntRakNetMtuValue3InBytes",
+        "value": "1250",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagEnableSoundPreloading",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntFRMMaxGrassDistance",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagWindowsReportAbuseNotification",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXAdaptiveScrollingAvatarEditor2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewLookUpHumanoidByType",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagEngineAPISendNotificationClientAnalytics",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringInExperienceNotificationsLayer",
+        "value": "",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntHttpParallelLimit_RequestExperienceNotificationService",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntHACDPointSampleDistApartTenths",
+        "value": "2147483647",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugForceGenerateHSR",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCanHideGuiGroupId",
+        "value": "32380007",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVoiceBetaBadge",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVRFixCursorJitterLua",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugForceFSMCPULightCulling",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntDebugTextureManagerSkipMips",
+        "value": "5",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntDirectionalAttenuationMaxPoints",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGraphicsGLEnableHQShadersExclusion",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagPreloadTextureItemsOption4",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagUnifyLegacyJointGeometry",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewMoreNilChecks",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntStudioExternalNotificationImplMessageWriteTimeOut",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugEnableVRFTUXExperienceInStudio",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixExitDialogBlockVRView",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewCameraDefaultButtonInViewPort",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagOptimizeClusterCacheAlloc",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFStringAltTelegrafAddress",
+        "value": "127.0.0.1",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCullFactorPixelThresholdShadowMapLowQuality",
+        "value": "2147483647",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryV2Event",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVideoTextureSupportHardwareRender",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugRenderingSetDeterministic",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixEmotesMenuVR",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVisBugChecksThreadYield",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAdaptiveScrollingFrameOnServer",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInPlayerList",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntCullFactorPixelThresholdShadowMapHighQuality",
+        "value": "2147483647",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagImproveShiftLockTransition",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportPreloadingMetrics5",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagVRBackpackImproved",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixIGMTabTransitions",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXFixAdaptiveScrollingSnapAndroid",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportClientAssetPreloadingDoingExperiment2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntTaskSchedulerThreadMin",
+        "value": "3",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXAdaptiveScrollingImprovementIXPEnabled",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntRakNetMtuValue2InBytes",
+        "value": "1337",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixIGMBottomBarVisibility",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderOptimizeDecalTransparencyInvalidation",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringGraphicsDisableUnalignedDxtGPUNameBlacklist",
+        "value": "null",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntAnimationLodFacsDistanceMin",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAudioUseVolumetricPanning",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntBootstrapperWebView2InstallationTelemetryHundredthPercent",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSignalRNotificationManagerMaybeStart",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAssetPreloadingIXP",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportClientAssetPreloadingEnabledIXP",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixChunkLightingUpdate2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderLocalLightUpdatesMax",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableIOSWebViewCookieSyncFix",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntMaxFrameBufferSize",
+        "value": "4",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewHumanoidNilCheck",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfieViewEnabled",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagToastNotificationsProtocolEnabled2",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagWindowsWebViewTelemetryEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagInExperienceUpsellSelfViewFix",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAdServiceEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagEnableExperienceNotificationOptInPrompt",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderSkipReadingShaderData",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagPreferredTextSizeSettingBetaFeature",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixOutdatedTimeScaleParticles",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntDefaultTimeoutTimeMs",
+        "value": "10000",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntSmoothTerrainPhysicsCacheSize",
+        "value": "1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderLocalLightFadeInMs",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesGameTile",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaMenuPerfImprovements",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugStudioForceSystemDeprecationNotification",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableChildrenLockFromLua2",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGraphicsTextureCopy",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntPreferredTextSizeSettingBetaFeatureRolloutPercent",
+        "value": "100",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportClientAssetPreloadingDoingExperiment",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDebugOverrideDPIScale",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderShadowmapBias",
+        "value": "-1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryEphemeralCounter",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagShoeSkipRenderMesh",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagMockOpenSelfViewForCameraUser",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagViewCollisionFadeToBlackInVR",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntAnimationLodFacsVisibilityDenominator",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAXAdaptiveScrollingSnapItemEditor",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInCaptureMenu",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntRakNetMtuValue1InBytes",
+        "value": "1396",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeStyleFixesInAppShell3",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSettingsHubIndependentBackgroundVisibility",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixSettingsHubVRBackgroundError",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagAudioToggleVolumetricPanning",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugCheckRenderThreading",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagCoreGuiSelfViewVisibilityFixed",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntBloomFrmCutoff",
+        "value": "-1",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderCBRefactor2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableVisBugChecks27",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeConnection",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableChildrenLockFromLua",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagNewLightAttenuation",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagTeleportClientAssetPreloadingEnabled9",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagRenderShadowSkipHugeCulling",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFStringWebviewUrlAllowlist",
+        "value": "",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagChatTranslationEnableSystemMessage",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSquadToastNotificationsEnabled",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagTaskSchedulerLimitTargetFpsTo2402",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDebugPerfMode",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnableRemoveIsFromToastNotification",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUserEnableCameraToggleNotification",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagDebugPauseVoxelizer",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntStudioResendDisconnectNotificationInterval",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewGetRidOfFalselyRenderedFaceDecal",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagToastNotificationsReceivedAndDismissedSignals",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagPreloadMinimalFonts",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaAppGenreUnderConstruction",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUserSoundsUseRelativeVelocity2",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagLuaAppEnableParentalControlExperiment",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryPoint",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringTerrainMaterialTablePre2022",
+        "value": "",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagUserFixLoadAnimationError",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagNotificationServiceIsConnectedProperty",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagEnablePreferredTextSizeScale",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagSelfViewFixes",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFIntDebugLimitMinTextureResolutionWhenSkipMips",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagToastNotificationsUpdateEventParams",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagAvatarChatIncludeSelfViewOnTelemetry",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDebugDisableTelemetryV2Counter",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagDontRerenderForBadTexture",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FStringWhitelistVerifiedUserId",
+        "value": "1307880661",
+        "type": "string",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FIntRenderGrassHeightScaler",
+        "value": "0",
+        "type": "int",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagFixGraphicsQuality",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "DFFlagVoxelizerDisableTerrainSIMD",
+        "value": "True",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGlobalWindActivated",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    },
+    {
+        "name": "FFlagGlobalWindRendering",
+        "value": "False",
+        "type": "bool",
+        "enabled": true,
+        "bind": "",
+        "unapply_bind": "",
+        "cycle_states": []
+    }
+]
